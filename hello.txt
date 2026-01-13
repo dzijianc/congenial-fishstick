@@ -2,5 +2,9 @@ Hello2
 2 
 fix 
 change 
+<<<<<<< HEAD
 change3
 change5 
+=======
+change4
+>>>>>>> 1760db41404da97e9832e54734605b8b631231df
